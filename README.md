@@ -16,7 +16,7 @@ To write a program to find the GCD of two numbers using function.
 ## Program:
 ```
 #developed by:r.sivakumar.R
-# reg no:212223230209
+# reg no:212223230209 
 
 
 
